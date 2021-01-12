@@ -1,6 +1,7 @@
 ---
-title: "Welcome to my blog"
-date: 2019-01-20
+title: 当前页面操作
+permalink: /当前页面操作
+tags: vim,vimium
 ---
 
 ## 当前页面操作
