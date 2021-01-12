@@ -1,5 +1,6 @@
 ---
 title: 当前页面操作
+tags: vim,vimium
 ---
 
 ### 当前页面操作
