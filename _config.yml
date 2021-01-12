@@ -3,10 +3,7 @@ author: chenXin
 email: 
 theme: minima
 permalink: none
-webrick:
-  headers:
-    My-Header: My-Value
-    My-Other-Header: My-Other-Value
+auto: true
 description: > # this means to ignore newlines until "baseurl:"
   A station for A digital players!
 
