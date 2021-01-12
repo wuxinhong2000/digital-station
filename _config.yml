@@ -4,6 +4,10 @@ email:
 theme: minima
 permalink: none
 auto: true
+gems:
+  - jekyll-sitemap  #生成sitemap
+  - jekyll-mentions  #允许"@ somebody"
+  - jemoji  #允许标签
 description: > # this means to ignore newlines until "baseurl:"
   A station for A digital players!
 
