@@ -14,3 +14,8 @@ twitter_username:  # DO NOT include the @ character, or else the build will fail
 github_username:   # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+minima:
+  date_format: "%b %-d, %Y"
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
