@@ -13,7 +13,7 @@
 + 浏览器脚本和插件
 + 安卓 App 整理
 + 软件使用
-+ *阅读* 及 *厚墨*网络书源整理
++ *阅读* 及 *厚墨* 网络书源整理
 
 本站使用的 Github 默认主题 *Minima* 仓库地址：https://github.com/jekyll/minima
 
