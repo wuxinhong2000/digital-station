@@ -3,8 +3,8 @@ author: chenXin
 email: 
 theme: minima
 permalink: none
-minima:
-  skin: dark
+header_pages:
+  - about.md
 description: > # this means to ignore newlines until "baseurl:"
   A station for A digital players!
 
