@@ -1,7 +1,9 @@
 ---
-title: 当前页面操作
+title: vimium 基本操作
 tags: vim,vimium
 ---
+
+vimium 主要快捷键
 
 ### 当前页面操作
 
