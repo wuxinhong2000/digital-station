@@ -4,7 +4,7 @@ email:
 theme: minima
 permalink: none
 description: > # this means to ignore newlines until "baseurl:"
-  A station for A digital players!
+  A Station for a Digital Player!
 
 # social links
 twitter_username:  # DO NOT include the @ character, or else the build will fail!
