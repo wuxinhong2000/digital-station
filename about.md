@@ -1,2 +1,3 @@
+**Welcome to my blog!**
 
-## about
+This is a station of a digital player!
