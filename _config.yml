@@ -5,7 +5,6 @@ theme: minima
 permalink: none
 header_pages:
   - about.md
-  - docs.md
 description: > # this means to ignore newlines until "baseurl:"
   A station for A digital players!
 
