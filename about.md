@@ -6,7 +6,7 @@ This is a station of a digital player!
 
 这是我的个人 *blog*, 未完成版。用于整理记录数码产品使用。
 
-本站 [仓库地址](https://github.com/wuxinhong2000/digital-station)：https://github.com/wuxinhong2000/digital-station
+本站仓库地址：[https://github.com/wuxinhong2000/digital-station](https://github.com/wuxinhong2000/digital-station)
 
 *gitee* 镜像站同步筹备中。
 
@@ -21,6 +21,6 @@ This is a station of a digital player!
 + 软件使用
 + *阅读* 及 *厚墨* 网络书源整理
 
-本站使用 Github 默认主题 *Minima* ,[仓库地址](https://github.com/jekyll/minima)：https://github.com/jekyll/minima
+本站使用 Github 默认主题 *Minima* ,仓库地址：[https://github.com/jekyll/minima](https://github.com/jekyll/minima)
 
 This repository is licensed under MIT (c) 2019 GitHub, Inc.
