@@ -1,12 +1,23 @@
-# Your GitHub Learning Lab Repository for GitHub Pages
+这是我的个人 *blog*, 未完成版。用于整理记录数码产品使用。
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. 
+临时地址：https://wuxinhong2000.github.io/digital-station/
+
+*gitee* 镜像站同步筹备中。
+
+后期将会搬迁。**请勿 Fork, star 或 watch。**
+
+链接挂了请**提交 Issues 或 Discussions**。我会随缘处理。
+
+**预期添加内容**
++ Win10 软件整理
++ 浏览器脚本和插件
++ 安卓 App 整理
++ 软件使用
++ *阅读*及*厚墨*网络书源整理
+
+本站使用主题地址：https://github.com/jekyll/minima
 
 Oh! I haven't introduced myself...
-
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
-
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
 I'll meet you over there, can't wait to get started!
 
