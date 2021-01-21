@@ -6,10 +6,6 @@ This is a station of a digital player!
 
 这是我的个人 *blog*, 未完成版。用于整理记录数码产品使用。
 
-本站仓库地址：[https://github.com/wuxinhong2000/digital-station](https://github.com/wuxinhong2000/digital-station)
-
-*gitee* 镜像站同步筹备中。
-
 后期将会搬迁。**请勿 Fork, star 或 watch。**
 
 链接挂了请 **提交 Issues 或 Discussions**。我会随缘处理。
